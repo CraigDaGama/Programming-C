@@ -24,7 +24,7 @@ scanf("%d",&b[i][j]);
 }
 }
 
-printf("multiply of the matrix=\n");
+printf("Product of the matrix=\n");
 for(i=0;i<r1;i++)
 {
 for(j=0;j<c1;j++)
